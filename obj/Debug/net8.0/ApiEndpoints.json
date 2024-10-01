@@ -1,0 +1,42 @@
+[
+  {
+    "ContainingType": "HangfireBackgroundJobsByProf.Controllers.JobsController",
+    "Method": "CreateContinuationJob",
+    "RelativePath": "api/Jobs/continuation-job",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HangfireBackgroundJobsByProf.Controllers.JobsController",
+    "Method": "CreateDelayedJob",
+    "RelativePath": "api/Jobs/delayed-job",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HangfireBackgroundJobsByProf.Controllers.JobsController",
+    "Method": "CreateFireAndForgetJob",
+    "RelativePath": "api/Jobs/fire-and-forget",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HangfireBackgroundJobsByProf.Controllers.JobsController",
+    "Method": "CreateRecurringJob",
+    "RelativePath": "api/Jobs/recurring-job",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

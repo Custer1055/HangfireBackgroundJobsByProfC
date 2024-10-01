@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "m4r63PuKdgY+7KVVrn46GDfPQgl1v4JNrB9dbbMsQ0o=",
+  "Source": "HangfireBackgroundJobsByProf",
+  "BasePath": "_content/HangfireBackgroundJobsByProf",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
